@@ -1,0 +1,2 @@
+### Welcome! 👋
+Hey there! Welcome to my GitHub repositories! I'm all about QA: exploring, curiosity, and continuous learning. If you're as passionate about quality assurance as I am, you've come to the right place. Dive into my projects and join me on this journey of exploration and growth. Don't forget to check out my personal website https://readytotest.github.io for more insights into what drives my passion for QA. Let's learn and innovate together!
